@@ -158,7 +158,12 @@ p {
     text-decoration: none;
     color: #b10333;
     text-decoration: underline;
+    padding: 2px;
     
+}
+
+a:hover {
+    color: #de003e;
 }
 
 .titulo {
@@ -291,4 +296,5 @@ input.submit:hover {
     color: #fff;
     width: 100%;
     text-align: center;
+    letter-spacing: 5px;
 }
